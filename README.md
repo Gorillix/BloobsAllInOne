@@ -9,7 +9,7 @@ in-game settings menu, and all four mods — pre-bundled so you don't have to pi
 |-----------|---------|--------------|
 | [BepInEx](https://github.com/BepInEx/BepInEx) | 5.4.23.2 (x64) | The mod loader (third-party). |
 | [ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) | 19.0 | In-game settings menu — press **F1** (third-party). |
-| [Auto Challenge Swap](https://github.com/Tanner3031/AutoChallengeSwap) | 2.15.0 | Auto-swaps your challenge tracker slots to match what you're doing. |
+| [Auto Challenge Swap](https://github.com/Tanner3031/AutoChallengeSwap) | 2.16.0 | Auto-swaps your challenge tracker slots to match what you're doing. |
 | [Challenge Navigator](https://github.com/Tanner3031/ChallengeNavigator) | 1.8.0 | Adds a **»** button to walk to an activity and start it. |
 | [Craft Time Estimator](https://github.com/Tanner3031/CraftTimeEstimator) | 1.2.0 | Shows the time to craft the whole "Can make" amount under each recipe. |
 | [Turbo Speed Control](https://github.com/Tanner3031/TurboSpeedControl) | 1.0.0 | Pick your turbo speed — 3x / 5x / 8x / 10x — from the menu. |
