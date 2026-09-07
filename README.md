@@ -10,11 +10,11 @@ in-game settings menu, and three mods — pre-bundled so you don't have to piece
 | [BepInEx](https://github.com/BepInEx/BepInEx) | 5.4.23.2 (x64) | The mod loader (third-party). |
 | [ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) | 19.0 | In-game settings menu — press **F1** (third-party). |
 | [Auto Challenge Swap](https://github.com/Gorillix/AutoChallengeSwap) | 2.19.0 | Auto-swaps your challenge tracker slots to match what you're doing, respects unlocks, and drops stale challenges. |
-| [Craft Time Estimator](https://github.com/Gorillix/CraftTimeEstimator) | 1.2.0 | Shows the time to craft the whole "Can make" amount under each recipe. Originally created by [Tanner3031](https://github.com/Tanner3031). |
-| [Turbo Speed Control](https://github.com/Gorillix/TurboSpeedControl) | 1.0.0 | Pick your turbo speed — 3x / 5x / 8x / 10x — from the menu. Originally created by [Tanner3031](https://github.com/Tanner3031). |
+| [Craft Time Estimator](https://github.com/Gorillix/CraftTimeEstimator) | 1.2.0 | Maintained by Gorillix; shows the time to craft the whole "Can make" amount. Originally created by [Tanner3031](https://github.com/Tanner3031). |
+| [Turbo Speed Control](https://github.com/Gorillix/TurboSpeedControl) | 1.0.0 | Maintained by Gorillix; choose turbo speed — 3x / 5x / 8x / 10x. Originally created by [Tanner3031](https://github.com/Tanner3031). |
 
-**Challenge Navigator is no longer bundled.** Its functionality is now included in the released
-Auto Challenge Swap package, so this pack only includes the three actively maintained mods listed
+**Challenge Navigator is no longer bundled.** Its walk-to-activity functionality was integrated
+into the base game in patch `v1.2.1.0`, so this pack only includes the three maintained mods listed
 above.
 
 ## Install
@@ -63,7 +63,7 @@ Notes:
 
 BepInEx and ConfigurationManager are third-party tools, redistributed here **unmodified** under
 their respective **LGPL** licenses — they are not my work. Full license texts are in the `licenses`
-folder inside the zip. The three bundled mods are **MIT**-licensed and made by
-[Tanner3031](https://github.com/Tanner3031).
+folder inside the zip. All three bundled mods are **MIT**-licensed and were originally created by
+[Tanner3031](https://github.com/Tanner3031). Gorillix now maintains all three projects.
 
 No files from Bloobs Adventure Idle itself are included or redistributed.
