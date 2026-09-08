@@ -9,7 +9,7 @@ in-game settings menu, and three mods — pre-bundled so you don't have to piece
 |-----------|---------|--------------|
 | [BepInEx](https://github.com/BepInEx/BepInEx) | 5.4.23.2 (x64) | The mod loader (third-party). |
 | [ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) | 19.0 | In-game settings menu — press **F1** (third-party). |
-| [Auto Challenge Swap](https://github.com/Gorillix/AutoChallengeSwap) | 2.19.0 | Auto-swaps your challenge tracker slots to match what you're doing, respects unlocks, and drops stale challenges. |
+| [Auto Challenge Swap](https://github.com/Gorillix/AutoChallengeSwap) | 2.19.2 | Auto-swaps your challenge tracker slots to match what you're doing, respects unlocks, and drops stale challenges. |
 | [Craft Time Estimator](https://github.com/Gorillix/CraftTimeEstimator) | 1.2.0 | Maintained by Gorillix; shows the time to craft the whole "Can make" amount. Originally created by [Tanner3031](https://github.com/Tanner3031). |
 | [Turbo Speed Control](https://github.com/Gorillix/TurboSpeedControl) | 1.0.0 | Maintained by Gorillix; choose turbo speed — 3x / 5x / 8x / 10x. Originally created by [Tanner3031](https://github.com/Tanner3031). |
 
