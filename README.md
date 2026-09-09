@@ -11,7 +11,7 @@ in-game settings menu, and three mods — pre-bundled so you don't have to piece
 | [ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) | 19.0 | In-game settings menu — press **F1** (third-party). |
 | [Auto Challenge Swap](https://github.com/Gorillix/AutoChallengeSwap) | 2.19.3 | Auto-swaps your challenge tracker slots to match what you're doing, respects unlocks, and drops stale challenges. |
 | [Craft Time Estimator](https://github.com/Gorillix/CraftTimeEstimator) | 1.2.0 | Maintained by Gorillix; shows the time to craft the whole "Can make" amount. Originally created by [Tanner3031](https://github.com/Tanner3031). |
-| [Turbo Speed Control](https://github.com/Gorillix/TurboSpeedControl) | 2.0.0 | Maintained by Gorillix; choose 1x–50x speed, optional frame-rate unlock, telemetry, and an in-game speed toggle. Originally created by [Tanner3031](https://github.com/Tanner3031). |
+| [Turbo Speed Control](https://github.com/Gorillix/TurboSpeedControl) | 1.0.0 | Maintained by Gorillix; choose turbo speed from the original released options. Originally created by [Tanner3031](https://github.com/Tanner3031). |
 
 **Challenge Navigator is no longer bundled.** Its walk-to-activity functionality was integrated
 into the base game in patch `v1.2.1.0`, so this pack only includes the three maintained mods listed
